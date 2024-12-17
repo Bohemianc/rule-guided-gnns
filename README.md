@@ -1,6 +1,6 @@
-# Rule-guided GNNs for explainable KG Reasoning
+# Rule-guided GNNs for Explainable KG Reasoning
 
-This is the official code of the paper *Rule-guided GNNs for explainable KG Reasoning* (AAAI'25).
+This is the official code of the paper *Rule-guided GNNs for Explainable Knowledge Graph Reasoning* (AAAI'25).
 
 ## Overview
 We proposed a new family of GNNs whose training can be guided by rules. This is achieved through a connection between the parameters of our GNN with various forms of rules. Specifically, our approach allows
@@ -80,7 +80,7 @@ If you find the code useful in your research, please cite the following paper.
 
 ```bibtex
 @inproceedings{wang2025rule,
-  title={Rule-guided GNNs for explainable KG Reasoning},
+  title={Rule-guided GNNs for Explainable Knowledge Graph Reasoning},
   author={Wang, Zhe and Ma, Suxue and Wang, Kewen and Zhuang Zhiqiang},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   year={2025}
