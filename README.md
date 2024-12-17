@@ -11,7 +11,7 @@ We proposed a new family of GNNs whose training can be guided by rules. This is 
 
 Here are examples to demonstrate the connection between the rules and the GNN parameters.
 ![alt text](images/overview.png)
-Consider a rule $p_i(x,y) \leftarrow p_j(x,y)$ with confidence $\alpha$, and a pair of entities $a,b$. If the fact $p_j(a,b)$ holds, then $\boldsymbol{h}_{a,b}^{(0)}[j]=1$ according to our KG encoding. From our rule encoding, $\boldsymbol{A}^{(1)}[i][j]=\alpha$. From the message passing equation, $\boldsymbol{h}_{a,b}^{(1)}[i] \ge \big(\boldsymbol{A}^{(1)}\boldsymbol{h}^{(0)}_{a,b}\big)[i] \ge \alpha$, which means the plausibility of the fact $p_i(a,b)$ is greater than that of $p_j(a,b)$.
+Consider a rule $p_i(x,y) \leftarrow p_j(x,y)$ with confidence $\alpha$, and a pair of entities $a,b$. If the fact $p_j(a,b)$ holds, then $\mathbf{h}_{a,b}^{(0)}[j]=1$ according to our KG encoding. From our rule encoding, $\mathbf{A}^{(1)}[i][j]=\alpha$. From the message passing equation, $\mathbf{h}_{a,b}^{(1)}[i] \ge \big(\mathbf{A}^{(1)}\mathbf{h}^{(0)}_{a,b}\big)[i] \ge \alpha$, which means the plausibility of the fact $p_i(a,b)$ is greater than that of $p_j(a,b)$.
 
 
 ## Installation
