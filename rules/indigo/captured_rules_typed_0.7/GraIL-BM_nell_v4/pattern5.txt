@@ -1,0 +1,6 @@
+1.0	concept:proxyfor	concept:agentcontrols	concept:subpartof
+0.7777777777777778	concept:agentbelongstoorganization	concept:agentcollaborateswithagent	concept:subpartof
+1.0	concept:agentcontrols	concept:proxyfor	concept:subpartof
+1.0	concept:locationlocatedwithinlocation	concept:subpartof	concept:proxyfor
+0.7272727272727273	concept:subpartof	concept:agentbelongstoorganization	concept:agentcollaborateswithagent
+1.0	concept:subpartof	concept:locationlocatedwithinlocation	concept:proxyfor

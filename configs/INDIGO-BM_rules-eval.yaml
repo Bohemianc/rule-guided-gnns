@@ -1,0 +1,5 @@
+exp_name: INDIGO-BM_rules
+dataset_name: INDIGO-BM
+threshold: 0.5
+test_graph: data/INDIGO-BM/test/test-graph_w_types.txt
+add_2hop: false

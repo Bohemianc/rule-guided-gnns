@@ -1,0 +1,4 @@
+0.9166666666666666	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+0.7058823529411765	/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+0.7605633802816901	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+0.7435897435897436	/award/award_winner/awards_won./award/award_honor/award_winner

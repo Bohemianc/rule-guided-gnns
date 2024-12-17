@@ -1,0 +1,20 @@
+concept:statelocatedingeopoliticallocation :  ['concept:statelocatedingeopoliticallocation', 'concept:statelocatedingeopoliticallocation'] :  0.991
+concept:subpartof :  ['concept:proxyfor'] :  0.94
+concept:proxyfor :  ['concept:subpartof'] :  0.927
+concept:cityalsoknownas :  ['inv_concept:cityalsoknownas'] :  0.913
+concept:mutualproxyfor :  ['inv_concept:atlocation'] :  0.908
+concept:proxyfor :  ['inv_concept:proxyfor'] :  0.892
+concept:locationlocatedwithinlocation :  ['inv_concept:proxyfor'] :  0.88
+concept:personborninlocation :  ['concept:personhasresidenceingeopoliticallocation'] :  0.865
+concept:personhasresidenceingeopoliticallocation :  ['concept:personhasresidenceingeopoliticallocation', 'concept:personhasresidenceingeopoliticallocation'] :  0.863
+concept:locationlocatedwithinlocation :  ['inv_concept:proxyfor', 'inv_concept:proxyfor'] :  0.856
+concept:citylocatedingeopoliticallocation :  ['concept:proxyfor'] :  0.829
+concept:personbelongstoorganization :  ['inv_concept:organizationhiredperson'] :  0.804
+concept:personleadsgeopoliticalorganization :  ['inv_concept:atlocation'] :  0.794
+concept:countryalsoknownas :  ['concept:countryalsoknownas', 'concept:countryalsoknownas'] :  0.79
+concept:locationlocatedwithinlocation :  ['concept:proxyfor'] :  0.788
+concept:citylocatedincountry :  ['inv_concept:atlocation'] :  0.76
+concept:citylocatedinstate :  ['concept:proxyfor'] :  0.75
+concept:agentcollaborateswithagent :  ['concept:agentbelongstoorganization'] :  0.735
+concept:subpartof :  ['inv_concept:proxyfor'] :  0.707
+concept:atdate :  ['inv_concept:atlocation', 'inv_concept:atlocation'] :  0.689

@@ -1,0 +1,6 @@
+1.0	concept:personleadsorganization	concept:proxyfor	concept:worksfor
+0.7142857142857143	concept:proxyfor	concept:atlocation	concept:subpartof
+0.7142857142857143	concept:atlocation	concept:proxyfor	concept:subpartof
+1.0	concept:worksfor	concept:agentcontrols	concept:proxyfor
+1.0	concept:proxyfor	concept:personleadsorganization	concept:worksfor
+1.0	concept:subpartof	concept:agentcontrols	concept:proxyfor

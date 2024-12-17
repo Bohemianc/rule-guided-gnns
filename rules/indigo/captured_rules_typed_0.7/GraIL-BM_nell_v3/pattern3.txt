@@ -1,0 +1,7 @@
+0.7083333333333334	concept:mammalsuchasmammal
+1.0	concept:personalsoknownas
+0.7637795275590551	concept:competeswith
+0.8950276243093923	concept:countryalsoknownas
+1.0	concept:personalsoknownas
+0.7637795275590551	concept:competeswith
+0.7717149220489977	concept:teamplaysagainstteam

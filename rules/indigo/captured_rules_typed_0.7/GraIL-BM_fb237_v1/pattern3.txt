@@ -1,0 +1,3 @@
+0.7605633802816901	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+1.0	/people/person/spouse_s./people/marriage/spouse
+0.7435897435897436	/award/award_winner/awards_won./award/award_honor/award_winner

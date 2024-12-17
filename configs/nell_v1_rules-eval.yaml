@@ -1,0 +1,6 @@
+exp_name: nell_v1_rules
+dataset_name: GraIL-BM_nell_v1
+threshold: 0.5
+test_graph: data/GraIL-BM_nell_v1/test/test_graph_w_types.txt
+reasoning_scheme: from-data
+add_2hop: true

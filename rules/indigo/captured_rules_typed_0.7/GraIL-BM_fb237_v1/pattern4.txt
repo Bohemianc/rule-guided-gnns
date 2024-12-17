@@ -1,0 +1,2 @@
+1.0	/film/film/prequel	/film/film/production_companies	/film/film/production_companies
+1.0	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/written_by	/film/film/story_by

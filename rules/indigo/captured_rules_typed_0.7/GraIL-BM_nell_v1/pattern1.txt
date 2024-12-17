@@ -1,0 +1,10 @@
+0.9044585987261147	concept:agentbelongstoorganization	concept:agentcollaborateswithagent
+0.8922155688622755	concept:agentcollaborateswithagent	concept:agentbelongstoorganization
+0.881578947368421	concept:subpartof	concept:agentbelongstoorganization
+0.9276315789473685	concept:subpartof	concept:agentcollaborateswithagent
+0.9044585987261147	concept:agentbelongstoorganization	concept:agentcollaborateswithagent
+0.8922155688622755	concept:agentcollaborateswithagent	concept:agentbelongstoorganization
+0.881578947368421	concept:subpartof	concept:agentbelongstoorganization
+0.874251497005988	concept:agentcollaborateswithagent	concept:subpartof
+0.9276315789473685	concept:subpartof	concept:agentcollaborateswithagent
+0.8789808917197452	concept:agentbelongstoorganization	concept:subpartof

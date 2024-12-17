@@ -1,0 +1,6 @@
+exp_name: fb237_v3_rules
+dataset_name: GraIL-BM_fb237_v3
+threshold: 0.5
+test_graph: data/GraIL-BM_fb237_v3/test/test_graph_w_types.txt
+reasoning_scheme: from-data
+add_2hop: false

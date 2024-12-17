@@ -1,0 +1,4 @@
+1.0	concept:subpartof	concept:agentcreated	concept:agentcontrols
+1.0	concept:agentcontrols	concept:coachesinleague	concept:agentcontrols
+1.0	concept:subpartof	concept:personleadsorganization	concept:subpartoforganization
+1.0	concept:cityalsoknownas	concept:cityalsoknownas	concept:cityalsoknownas

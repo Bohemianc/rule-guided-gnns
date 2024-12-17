@@ -1,0 +1,10 @@
+1.0	/influence/influence_node/peers./influence/peer_relationship/peers
+0.8888888888888888	/people/person/sibling_s./people/sibling_relationship/sibling
+0.8148148148148148	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for
+0.73	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+0.7358490566037735	/base/popstra/celebrity/dated./base/popstra/dated/participant
+0.735632183908046	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+0.7906976744186046	/government/legislative_session/members./government/government_position_held/legislative_sessions
+0.7142857142857143	/education/field_of_study/students_majoring./education/education/major_field_of_study
+0.7317073170731707	/music/performance_role/track_performances./music/track_contribution/role
+0.7849829351535836	/award/award_winner/awards_won./award/award_honor/award_winner

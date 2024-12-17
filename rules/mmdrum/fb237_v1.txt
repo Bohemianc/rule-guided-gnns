@@ -1,0 +1,20 @@
+/award/award_nominee/award_nominations./award/award_nomination/award_nominee :  ['inv_/award/award_nominee/award_nominations./award/award_nomination/award_nominee'] :  0.817
+/award/award_winner/awards_won./award/award_honor/award_winner :  ['inv_/award/award_winner/awards_won./award/award_honor/award_winner', 'inv_/award/award_winner/awards_won./award/award_honor/award_winner'] :  0.805
+/award/award_category/nominees./award/award_nomination/nominated_for :  ['inv_/award/award_nominee/award_nominations./award/award_nomination/award', 'inv_/award/award_nominee/award_nominations./award/award_nomination/award'] :  0.528
+/music/performance_role/track_performances./music/track_contribution/role :  ['/music/performance_role/guest_performances./music/recording_contribution/performance_role', '/music/performance_role/guest_performances./music/recording_contribution/performance_role'] :  0.475
+/award/award_nominee/award_nominations./award/award_nomination/award :  ['inv_/award/award_winner/awards_won./award/award_honor/award_winner', 'inv_/award/award_winner/awards_won./award/award_honor/award_winner'] :  0.381
+/education/educational_degree/people_with_this_degree./education/education/institution :  ['/education/educational_degree/people_with_this_degree./education/education/major_field_of_study', '/education/educational_degree/people_with_this_degree./education/education/major_field_of_study'] :  0.372
+/award/award_category/winners./award/award_honor/award_winner :  ['inv_/award/award_nominee/award_nominations./award/award_nomination/award', 'inv_/award/award_nominee/award_nominations./award/award_nomination/award'] :  0.371
+/award/award_winner/awards_won./award/award_honor/award_winner :  ['/award/award_winner/awards_won./award/award_honor/award_winner', '/award/award_winner/awards_won./award/award_honor/award_winner'] :  0.319
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program :  ['inv_/award/award_winning_work/awards_won./award/award_honor/award_winner', 'inv_/award/award_winning_work/awards_won./award/award_honor/award_winner'] :  0.316
+/award/award_winning_work/awards_won./award/award_honor/award :  ['inv_/award/award_nominee/award_nominations./award/award_nomination/nominated_for', 'inv_/award/award_nominee/award_nominations./award/award_nomination/nominated_for'] :  0.275
+/people/cause_of_death/people :  ['/medicine/disease/risk_factors', '/medicine/disease/risk_factors'] :  0.242
+/film/director/film :  ['/organization/organization_founder/organizations_founded', '/organization/organization_founder/organizations_founded'] :  0.229
+/people/person/places_lived./people/place_lived/location :  ['/people/person/place_of_birth', '/people/person/place_of_birth'] :  0.212
+/music/performance_role/guest_performances./music/recording_contribution/performance_role :  ['/music/performance_role/guest_performances./music/recording_contribution/performance_role', '/music/performance_role/guest_performances./music/recording_contribution/performance_role'] :  0.186
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program :  ['/award/award_winner/awards_won./award/award_honor/award_winner', '/award/award_winner/awards_won./award/award_honor/award_winner'] :  0.179
+/award/award_winning_work/awards_won./award/award_honor/award_winner :  ['inv_/award/award_nominee/award_nominations./award/award_nomination/nominated_for', 'inv_/award/award_nominee/award_nominations./award/award_nomination/nominated_for'] :  0.176
+/award/award_nominee/award_nominations./award/award_nomination/award_nominee :  ['inv_/award/award_winner/awards_won./award/award_honor/award_winner', '/location/country/form_of_government'] :  0.17
+/media_common/netflix_genre/titles :  ['inv_/film/film/genre', 'inv_/film/film/genre'] :  0.166
+/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country :  ['/location/country/form_of_government', '/location/country/form_of_government'] :  0.157
+/music/instrument/instrumentalists :  ['/location/country/form_of_government', '/location/country/form_of_government'] :  0.154

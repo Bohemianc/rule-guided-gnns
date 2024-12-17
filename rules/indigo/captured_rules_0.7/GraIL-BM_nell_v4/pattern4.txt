@@ -1,0 +1,7 @@
+1.0	concept:atlocation	concept:headquarteredin	concept:agentactsinlocation
+1.0	concept:agentcontrols	concept:coachesinleague	concept:agentcontrols
+1.0	concept:subpartof	concept:agentinvolvedwithitem	concept:agentcontrols
+1.0	concept:cityalsoknownas	concept:cityalsoknownas	concept:cityalsoknownas
+1.0	concept:subpartof	concept:agentcreated	concept:agentcontrols
+1.0	concept:mutualproxyfor	concept:agentinvolvedwithitem	concept:agentcontrols
+1.0	concept:subpartof	concept:personleadsorganization	concept:subpartoforganization

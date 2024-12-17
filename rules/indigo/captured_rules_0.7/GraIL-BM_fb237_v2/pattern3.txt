@@ -1,0 +1,10 @@
+1.0	/base/popstra/celebrity/breakup./base/popstra/breakup/participant
+1.0	/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend
+0.8064516129032258	/base/popstra/celebrity/dated./base/popstra/dated/participant
+0.7518248175182481	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+0.7857142857142857	/education/field_of_study/students_majoring./education/education/major_field_of_study
+0.7443181818181818	/award/award_winner/awards_won./award/award_honor/award_winner
+0.7142857142857143	/award/award_winning_work/awards_won./award/award_honor/honored_for
+0.7272727272727273	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for
+0.7619047619047619	/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+0.7222222222222222	/music/performance_role/track_performances./music/track_contribution/role

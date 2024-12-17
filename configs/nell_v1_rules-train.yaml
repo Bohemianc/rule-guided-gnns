@@ -1,0 +1,21 @@
+exp_name: nell_v1_rules
+dataset_name: GraIL-BM_nell_v1
+train_path: data/GraIL-BM_nell_v1/train-labeled-typed.txt
+valid_path: data/GraIL-BM_nell_v1/valid-labeled-typed.txt
+
+add_constraints: true
+add_mask: true
+add_rules: true
+rule_weight: 1
+add_2hop: true
+
+learning_rate: 0.005
+weight_decay: 0.00000005
+num_layers: 2
+num_epochs: 1000
+dropout: 0.5
+threshold: 0.5
+bce_weight: 10
+
+threshold_a: 0.1
+threshold_b: 0.4

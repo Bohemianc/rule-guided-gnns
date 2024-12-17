@@ -1,0 +1,11 @@
+0.855072463768116	/sports/sports_position/players./american_football/football_historical_roster_position/position_s	/sports/sports_position/players./sports/sports_team_roster/position
+0.7882096069868996	/american_football/football_team/current_roster./sports/sports_team_roster/position	/sports/sports_team/roster./american_football/football_roster_position/position
+0.7782178217821782	/soccer/football_player/current_team./sports/sports_team_roster/team	/sports/pro_athlete/teams./sports/sports_team_roster/team
+0.7958333333333333	/user/jg/default_domain/olympic_games/sports	/olympics/olympic_games/sports
+0.734375	/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses
+0.7211796246648794	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+0.7898305084745763	/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+0.7152173913043478	/education/educational_institution/campuses	/education/educational_institution_campus/educational_institution
+0.7515400410677618	/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+0.751937984496124	/base/aareas/schema/administrative_area/capital	/location/location/contains
+0.7661016949152543	/education/university/local_tuition./measurement_unit/dated_money_value/currency	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency

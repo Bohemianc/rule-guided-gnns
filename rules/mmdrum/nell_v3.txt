@@ -1,0 +1,20 @@
+concept:animalpreyson :  ['inv_concept:animalpreyson'] :  0.976
+concept:proxyfor :  ['concept:locationlocatedwithinlocation'] :  0.963
+concept:personleadsgeopoliticalorganization :  ['concept:personleadsorganization'] :  0.933
+concept:locationlocatedwithinlocation :  ['concept:locationlocatedwithinlocation', 'inv_concept:atdate'] :  0.933
+concept:agentcollaborateswithagent :  ['inv_concept:agentcollaborateswithagent'] :  0.923
+concept:mutualproxyfor :  ['inv_concept:proxyfor'] :  0.92
+concept:worksfor :  ['inv_concept:organizationhiredperson', 'inv_concept:organizationhiredperson'] :  0.916
+concept:proxyfor :  ['inv_concept:mutualproxyfor'] :  0.902
+concept:mutualproxyfor :  ['inv_concept:mutualproxyfor'] :  0.899
+concept:animalistypeofanimal :  ['inv_concept:animalpreyson'] :  0.877
+concept:synonymfor :  ['inv_concept:synonymfor'] :  0.873
+concept:animalpreyson :  ['concept:animalistypeofanimal'] :  0.867
+concept:citylocatedinstate :  ['concept:proxyfor'] :  0.856
+concept:personhasresidenceingeopoliticallocation :  ['concept:personleadsorganization', 'concept:personleadsorganization'] :  0.841
+concept:atlocation :  ['concept:proxyfor'] :  0.817
+concept:atlocation :  ['concept:locationlocatedwithinlocation', 'concept:locationlocatedwithinlocation'] :  0.81
+concept:locationlocatedwithinlocation :  ['concept:proxyfor'] :  0.806
+concept:competeswith :  ['inv_concept:competeswith'] :  0.793
+concept:athleteplaysforteam :  ['concept:athleteledsportsteam'] :  0.784
+concept:citylocatedincountry :  ['concept:citycapitalofcountry'] :  0.78

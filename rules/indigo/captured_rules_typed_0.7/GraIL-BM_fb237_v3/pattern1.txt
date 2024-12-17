@@ -1,0 +1,14 @@
+0.7857142857142857	/user/jg/default_domain/olympic_games/sports	/olympics/olympic_games/sports
+0.84	/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+0.9090909090909091	/american_football/football_team/current_roster./sports/sports_team_roster/position	/sports/sports_team/roster./american_football/football_roster_position/position
+0.84	/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+0.7857142857142857	/olympics/olympic_games/sports	/user/jg/default_domain/olympic_games/sports
+0.9090909090909091	/american_football/football_team/current_roster./sports/sports_team_roster/position	/sports/sports_team/roster./american_football/football_roster_position/position
+0.7857142857142857	/user/jg/default_domain/olympic_games/sports	/olympics/olympic_games/sports
+0.84	/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+0.7857142857142857	/olympics/olympic_games/sports	/user/jg/default_domain/olympic_games/sports
+0.9090909090909091	/american_football/football_team/current_roster./sports/sports_team_roster/position	/sports/sports_team/roster./american_football/football_roster_position/position
+0.7419354838709677	/soccer/football_player/current_team./sports/sports_team_roster/team	/sports/pro_athlete/teams./sports/sports_team_roster/team
+0.7777777777777778	/base/popstra/celebrity/breakup./base/popstra/breakup/participant	/base/popstra/celebrity/dated./base/popstra/dated/participant
+0.7352941176470589	/sports/pro_athlete/teams./sports/sports_team_roster/team	/soccer/football_player/current_team./sports/sports_team_roster/team
+0.75	/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity	/base/popstra/celebrity/dated./base/popstra/dated/participant

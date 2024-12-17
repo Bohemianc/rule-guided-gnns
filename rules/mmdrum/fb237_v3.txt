@@ -1,0 +1,20 @@
+/award/award_winner/awards_won./award/award_honor/award_winner :  ['inv_/award/award_winner/awards_won./award/award_honor/award_winner'] :  0.954
+/award/award_nominee/award_nominations./award/award_nomination/award_nominee :  ['/award/award_nominee/award_nominations./award/award_nomination/award_nominee', '/award/award_nominee/award_nominations./award/award_nomination/award_nominee'] :  0.935
+/award/award_winning_work/awards_won./award/award_honor/award_winner :  ['inv_/award/award_nominee/award_nominations./award/award_nomination/nominated_for', 'inv_/award/award_nominee/award_nominations./award/award_nomination/nominated_for'] :  0.932
+/location/location/adjoin_s./location/adjoining_relationship/adjoins :  ['inv_/location/location/adjoin_s./location/adjoining_relationship/adjoins'] :  0.913
+/award/award_nominee/award_nominations./award/award_nomination/award_nominee :  ['inv_/award/award_winner/awards_won./award/award_honor/award_winner', 'inv_/award/award_winner/awards_won./award/award_honor/award_winner'] :  0.901
+/award/award_nominee/award_nominations./award/award_nomination/award_nominee :  ['inv_/award/award_nominee/award_nominations./award/award_nomination/award_nominee'] :  0.895
+/music/performance_role/track_performances./music/track_contribution/role :  ['/music/performance_role/guest_performances./music/recording_contribution/performance_role', '/music/performance_role/guest_performances./music/recording_contribution/performance_role'] :  0.866
+/award/award_category/winners./award/award_honor/award_winner :  ['/award/award_category/winners./award/award_honor/award_winner', '/award/award_category/winners./award/award_honor/award_winner'] :  0.738
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics :  ['inv_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants', 'inv_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants'] :  0.715
+/people/ethnicity/people :  ['/people/ethnicity/people', '/people/ethnicity/people'] :  0.709
+/award/award_winner/awards_won./award/award_honor/award_winner :  ['/award/award_nominee/award_nominations./award/award_nomination/award_nominee', '/award/award_nominee/award_nominations./award/award_nomination/award_nominee'] :  0.706
+/military/military_combatant/military_conflicts./military/military_combatant_group/combatants :  ['inv_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants', 'inv_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants'] :  0.692
+/music/performance_role/regular_performances./music/group_membership/role :  ['/music/instrument/family'] :  0.654
+/location/administrative_division/first_level_division_of :  ['/base/aareas/schema/administrative_area/administrative_parent'] :  0.649
+/music/performance_role/regular_performances./music/group_membership/role :  ['inv_/music/instrument/family', 'inv_/music/instrument/family'] :  0.634
+/award/award_winner/awards_won./award/award_honor/award_winner :  ['/award/award_nominee/award_nominations./award/award_nomination/award_nominee'] :  0.621
+/film/film_set_designer/film_sets_designed :  ['/award/award_nominee/award_nominations./award/award_nomination/nominated_for'] :  0.619
+/base/popstra/celebrity/dated./base/popstra/dated/participant :  ['inv_/base/popstra/celebrity/dated./base/popstra/dated/participant'] :  0.619
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor :  ['inv_/award/award_nominee/award_nominations./award/award_nomination/nominated_for'] :  0.618
+/film/actor/film./film/performance/film :  ['inv_/award/award_winning_work/awards_won./award/award_honor/award_winner'] :  0.614

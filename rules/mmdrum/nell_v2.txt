@@ -1,0 +1,20 @@
+concept:proxyfor :  ['concept:subpartof'] :  0.969
+concept:teamplaysagainstteam :  ['inv_concept:teamplaysagainstteam'] :  0.938
+concept:plantincludeplant :  ['concept:specializationof'] :  0.937
+concept:organizationhiredperson :  ['inv_concept:worksfor'] :  0.917
+concept:mutualproxyfor :  ['inv_concept:organizationheadquarteredincity', 'inv_concept:organizationheadquarteredincity'] :  0.911
+concept:statelocatedingeopoliticallocation :  ['concept:statelocatedingeopoliticallocation', 'concept:statelocatedingeopoliticallocation'] :  0.883
+concept:sportsgameteam :  ['concept:sportsgameteam', 'concept:sportsgameteam'] :  0.869
+concept:countryalsoknownas :  ['inv_concept:countryalsoknownas'] :  0.862
+concept:mutualproxyfor :  ['inv_concept:proxyfor'] :  0.861
+concept:teamalsoknownas :  ['inv_concept:teamalsoknownas'] :  0.85
+concept:plantincludeplant :  ['inv_concept:plantincludeplant'] :  0.845
+concept:subpartof :  ['concept:mutualproxyfor'] :  0.803
+concept:coachesteam :  ['concept:worksfor'] :  0.777
+concept:mutualproxyfor :  ['inv_concept:subpartof'] :  0.764
+concept:arterycalledartery :  ['inv_concept:bodypartcontainsbodypart'] :  0.744
+concept:subpartof :  ['inv_concept:mutualproxyfor'] :  0.701
+concept:statelocatedingeopoliticallocation :  ['inv_concept:countrylocatedingeopoliticallocation'] :  0.701
+concept:athleteledsportsteam :  ['concept:worksfor'] :  0.699
+concept:locationlocatedwithinlocation :  ['inv_concept:proxyfor'] :  0.694
+concept:citylocatedinstate :  ['concept:proxyfor'] :  0.693

@@ -1,0 +1,20 @@
+concept:agentcontrols :  ['inv_concept:agentcollaborateswithagent'] :  0.996
+concept:agentcollaborateswithagent :  ['concept:agentcontrols'] :  0.97
+concept:topmemberoforganization :  ['inv_concept:organizationterminatedperson', 'inv_concept:organizationterminatedperson'] :  0.785
+concept:worksfor :  ['inv_concept:organizationhiredperson', 'inv_concept:organizationhiredperson'] :  0.777
+concept:headquarteredin :  ['concept:organizationheadquarteredincity', 'concept:organizationheadquarteredincity'] :  0.769
+concept:subpartof :  ['concept:agentbelongstoorganization', 'concept:agentbelongstoorganization'] :  0.727
+concept:organizationheadquarteredincity :  ['concept:headquarteredin'] :  0.668
+concept:topmemberoforganization :  ['inv_concept:agentcollaborateswithagent'] :  0.628
+concept:agentcontrols :  ['inv_concept:agentbelongstoorganization'] :  0.601
+concept:agentbelongstoorganization :  ['inv_concept:agentbelongstoorganization'] :  0.588
+concept:agentcontrols :  ['inv_concept:subpartoforganization', 'inv_concept:subpartoforganization'] :  0.516
+concept:worksfor :  ['concept:agentcontrols', 'inv_concept:agentcollaborateswithagent'] :  0.486
+concept:worksfor :  ['inv_concept:agentcollaborateswithagent'] :  0.477
+concept:headquarteredin :  ['concept:worksfor'] :  0.47
+concept:organizationhiredperson :  ['inv_concept:worksfor'] :  0.467
+concept:subpartoforganization :  ['inv_concept:subpartoforganization'] :  0.446
+concept:subpartof :  ['concept:agentcontrols'] :  0.445
+concept:topmemberoforganization :  ['inv_concept:agentbelongstoorganization'] :  0.417
+concept:organizationterminatedperson :  ['concept:organizationhiredperson', 'inv_concept:topmemberoforganization'] :  0.415
+concept:agentcollaborateswithagent :  ['inv_concept:agentcollaborateswithagent'] :  0.41

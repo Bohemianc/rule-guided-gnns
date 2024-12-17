@@ -1,0 +1,3 @@
+1.0	concept:stateorprovinceisborderedbystateorprovince	concept:stateorprovinceisborderedbystateorprovince	concept:stateorprovinceisborderedbystateorprovince
+1.0	concept:agentcreated	concept:agentcreated	concept:agentcreated
+1.0	concept:companyalsoknownas	concept:companyeconomicsector	concept:companyeconomicsector

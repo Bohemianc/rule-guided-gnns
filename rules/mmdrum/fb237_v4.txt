@@ -1,0 +1,20 @@
+/award/award_nominee/award_nominations./award/award_nomination/award_nominee :  ['/award/award_winner/awards_won./award/award_honor/award_winner'] :  0.982
+/award/award_category/nominees./award/award_nomination/nominated_for :  ['inv_/award/award_winning_work/awards_won./award/award_honor/award', 'inv_/award/award_winning_work/awards_won./award/award_honor/award'] :  0.98
+/location/location/adjoin_s./location/adjoining_relationship/adjoins :  ['inv_/location/location/adjoin_s./location/adjoining_relationship/adjoins', 'inv_/location/location/adjoin_s./location/adjoining_relationship/adjoins'] :  0.978
+/award/award_winner/awards_won./award/award_honor/award_winner :  ['/award/award_winner/awards_won./award/award_honor/award_winner', '/award/award_winner/awards_won./award/award_honor/award_winner'] :  0.966
+/award/award_winning_work/awards_won./award/award_honor/award_winner :  ['inv_/award/award_nominee/award_nominations./award/award_nomination/nominated_for'] :  0.942
+/base/biblioness/bibs_location/country :  ['/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division'] :  0.929
+/base/popstra/celebrity/dated./base/popstra/dated/participant :  ['/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity'] :  0.923
+/film/film/release_date_s./film/film_regional_release_date/film_release_region :  ['inv_/film/film/prequel', 'inv_/film/film/prequel'] :  0.919
+/film/film/written_by :  ['/film/film/edited_by'] :  0.909
+/film/film/produced_by :  ['inv_/award/award_nominee/award_nominations./award/award_nomination/nominated_for'] :  0.882
+/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program :  ['inv_/tv/tv_program/program_creator'] :  0.881
+/film/film/edited_by :  ['inv_/award/award_nominee/award_nominations./award/award_nomination/nominated_for'] :  0.861
+/tv/tv_network/programs./tv/tv_network_duration/program :  ['inv_/award/award_winning_work/awards_won./award/award_honor/award_winner'] :  0.859
+/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant :  ['inv_/base/popstra/celebrity/dated./base/popstra/dated/participant'] :  0.851
+/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity :  ['inv_/base/popstra/celebrity/dated./base/popstra/dated/participant'] :  0.848
+/people/person/places_lived./people/place_lived/location :  ['/people/person/place_of_birth'] :  0.841
+/base/popstra/celebrity/breakup./base/popstra/breakup/participant :  ['/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity'] :  0.831
+/american_football/football_team/current_roster./sports/sports_team_roster/position :  ['inv_/award/award_nominee/award_nominations./award/award_nomination/nominated_for'] :  0.814
+/award/award_nominee/award_nominations./award/award_nomination/award :  ['/award/award_winner/awards_won./award/award_honor/award_winner', '/award/award_winner/awards_won./award/award_honor/award_winner'] :  0.814
+/sports/sports_position/players./sports/sports_team_roster/team :  ['/sports/sports_position/players./sports/sports_team_roster/position', 'inv_/soccer/football_team/current_roster./soccer/football_roster_position/position'] :  0.802

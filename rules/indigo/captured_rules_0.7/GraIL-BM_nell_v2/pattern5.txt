@@ -1,0 +1,2 @@
+0.7142857142857143	concept:proxyfor	concept:atlocation	concept:subpartof
+0.7142857142857143	concept:atlocation	concept:proxyfor	concept:subpartof

@@ -1,0 +1,2 @@
+1.0	concept:teamalsoknownas	concept:teamplaysincity	concept:teamplaysincity
+1.0	concept:cityalsoknownas	concept:atlocation	concept:proxyfor

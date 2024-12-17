@@ -1,0 +1,20 @@
+/award/award_nominee/award_nominations./award/award_nomination/award_nominee :  ['inv_/award/award_nominee/award_nominations./award/award_nomination/award_nominee', 'inv_/award/award_nominee/award_nominations./award/award_nomination/award_nominee'] :  0.954
+/award/award_winner/awards_won./award/award_honor/award_winner :  ['inv_/award/award_nominee/award_nominations./award/award_nomination/award_nominee', 'inv_/award/award_nominee/award_nominations./award/award_nomination/award_nominee'] :  0.953
+/media_common/netflix_genre/titles :  ['inv_/film/film/genre', 'inv_/film/film/genre'] :  0.884
+/award/award_winner/awards_won./award/award_honor/award_winner :  ['inv_/award/award_winner/awards_won./award/award_honor/award_winner', 'inv_/award/award_winner/awards_won./award/award_honor/award_winner'] :  0.846
+/award/award_winning_work/awards_won./award/award_honor/award_winner :  ['inv_/award/award_nominee/award_nominations./award/award_nomination/nominated_for', 'inv_/award/award_nominee/award_nominations./award/award_nomination/nominated_for'] :  0.832
+/award/award_ceremony/awards_presented./award/award_honor/award_winner :  ['/award/award_ceremony/awards_presented./award/award_honor/award_winner', '/award/award_ceremony/awards_presented./award/award_honor/award_winner'] :  0.784
+/award/award_nominee/award_nominations./award/award_nomination/award_nominee :  ['inv_/award/award_winner/awards_won./award/award_honor/award_winner'] :  0.777
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for :  ['inv_/award/award_winning_work/awards_won./award/award_honor/award_winner', 'inv_/award/award_winning_work/awards_won./award/award_honor/award_winner'] :  0.741
+/music/performance_role/guest_performances./music/recording_contribution/performance_role :  ['inv_/music/instrument/family'] :  0.72
+/award/award_category/winners./award/award_honor/award_winner :  ['/award/award_category/winners./award/award_honor/award_winner', '/award/award_category/winners./award/award_honor/award_winner'] :  0.699
+/base/popstra/celebrity/friendship./base/popstra/friendship/participant :  ['inv_/base/popstra/celebrity/friendship./base/popstra/friendship/participant'] :  0.67
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for :  ['/award/award_nominee/award_nominations./award/award_nomination/award_nominee', '/award/award_nominee/award_nominations./award/award_nomination/award_nominee'] :  0.628
+/music/performance_role/track_performances./music/track_contribution/role :  ['/music/performance_role/track_performances./music/track_contribution/role', '/music/performance_role/track_performances./music/track_contribution/role'] :  0.605
+/education/educational_degree/people_with_this_degree./education/education/institution :  ['/education/educational_degree/people_with_this_degree./education/education/major_field_of_study', '/education/educational_degree/people_with_this_degree./education/education/major_field_of_study'] :  0.593
+/music/performance_role/track_performances./music/track_contribution/role :  ['inv_/dataworld/gardening_hint/split_to', 'inv_/dataworld/gardening_hint/split_to'] :  0.584
+/award/award_nominee/award_nominations./award/award_nomination/award :  ['inv_/award/award_category/winners./award/award_honor/award_winner'] :  0.559
+/organization/organization_member/member_of./organization/organization_membership/organization :  ['inv_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants', 'inv_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants'] :  0.491
+/base/aareas/schema/administrative_area/administrative_parent :  ['inv_/dataworld/gardening_hint/split_to'] :  0.485
+/award/award_category/nominees./award/award_nomination/nominated_for :  ['inv_/award/award_winning_work/awards_won./award/award_honor/award'] :  0.43
+/location/location/adjoin_s./location/adjoining_relationship/adjoins :  ['inv_/location/location/adjoin_s./location/adjoining_relationship/adjoins', 'inv_/location/location/adjoin_s./location/adjoining_relationship/adjoins'] :  0.423
