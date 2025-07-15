@@ -1455,15 +1455,12 @@ if __name__=='__main__':
     for i in range(8):
         dataset = datasets[i]
 
-        model_path = f'experiments/{dataset}_rules9_aaai/models/model.pt'
+        model_path = f'experiments/{dataset}_rules/models/model.pt'
         if dataset == 'INDIGO-BM':
             test_graph_path = f'data/{dataset}/test/test_graph_w_types.txt'
-            test_examples_path = f'data/{dataset}/test/test_all_examples.txt'
             train_path = f'data/{dataset}/train/train_w_types.txt'
             pred_path = dataset
         else:
-            # test_graph_path = f'data/GraIL-BM_{dataset}/test/test_graph_w_types.txt'
-            # test_examples_path = f'data/GraIL-BM_{dataset}/test/test_all_examples.txt'
             train_path = f'data/GraIL-BM_{dataset}/train/train_w_types.txt'
             pred_path = f'GraIL-BM_{dataset}'
                
