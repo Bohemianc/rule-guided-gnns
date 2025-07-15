@@ -216,9 +216,7 @@ def cal_sc_for_guiding(train_path, dataset, threshold_a=0.01, threshold_suppr=1)
 
 
 def get_parameters(model_path):
-    device = torch.device('cpu')
-
-    model = torch.load(model_path).to(device)
+    model = torch.load(model_path, map_location='cpu').to('cpu')
     model.eval()
     A1 = model.conv1.A.detach().numpy()
     B1 = model.conv1.B.detach().numpy()
@@ -1226,7 +1224,7 @@ def get_mgnn_sc(dataset, top_k=100000):
         pred_path = dataset
     else:
         rule_path = f'rules/mgnn/GraIL-BM_{dataset}_from-data_EC_{threshold}_extrarules.txt'   # w.o. types
-        rule_conf_path = f'rules/mgnn/extracted/GraIL-BM_{dataset}_from-data_EC_{threshold}_extrarules_thresholds.txt'
+        rule_conf_path = f'rules/mgnn/GraIL-BM_{dataset}_from-data_EC_{threshold}_extrarules_thresholds.txt'
         train_path = f'data/GraIL-BM_{dataset}/train/train.txt'
         pred_path = f'GraIL-BM_{dataset}'
 
@@ -1364,7 +1362,7 @@ def get_drummm_sc(dataset, top_k=100000):
 
 
 def get_ours_sc(dataset, top_k, threshold, threshold_rl2, threshold_prime):
-    model_path = f'experiments/{dataset}/models/model.pt'
+    model_path = f'experiments/{dataset}_rules/models/model.pt'
     if dataset == 'INDIGO-BM':
         train_path = f'data/{dataset}/train/train_w_types.txt'
         pred_path = dataset
